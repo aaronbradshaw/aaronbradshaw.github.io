@@ -6,7 +6,7 @@ tags: [Aaron, Bradshaw, about, sailing scuba, network]
 comments: false
 ---
 
-<!--![Portrait]({{ site.url }}/images/portrait.png) -->
+![Portrait]({{ site.url }}/images/portrait.jpeg) 
 
 Hey, I'm Aaron Bradshaw. I'm a network engineer with Cisco Systems supporting labs.  
 
