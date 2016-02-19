@@ -37,6 +37,8 @@ links:
     url: /archive
   - title: Tags
     url: /tags
+  - title: Dive Log
+    url: /divelog.html
   - title: About
     url: /about
 
