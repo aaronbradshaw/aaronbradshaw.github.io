@@ -7,7 +7,7 @@ comments: false
 ---
 
 ![Portrait]({{ site.url }}/images/portrait.jpeg)
-![cover-image](/images/portrait.jpeg)
+
 Hey, I'm Aaron Bradshaw. I'm a network engineer with Cisco Systems supporting labs.  
 
 My hobbies outside of work include scuba diving, sailing, traveling, and anything technical.
